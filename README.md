@@ -1,12 +1,13 @@
 ### Hi there 👋
 
 
-**daejong123/daejong123** is a ✨ _special_ ✨ repository
+✨ welcome ✨ 
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on lixiang.com
-- 🌱 I’m currently learning a、Architecture
+- 🔭 I’m previously worked at [youzan](https://github.com/youzan)
+- 🔭 I’m currently working on [lixiang](https://www.lixiang.com)
+- 🌱 I’m currently learning Architecture
 - 📫 How to reach me: dzdot@icloud.com
 
 
@@ -22,4 +23,6 @@ Here are some ideas to get you started:
 
 <hr />
 
+<!--
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=daejong123.daejong123)
+-->
