@@ -5,8 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m previously worked at [youzan](https://github.com/youzan)
-- 🔭 I’m currently working on [lixiang](https://www.lixiang.com)
+- 🔭 I’m currently working on [lixiang](https://www.lixiang.com), previously worked at [youzan](https://github.com/youzan)
 - 🌱 I’m currently learning Architecture
 - 📫 How to reach me: dzdot@icloud.com
 
